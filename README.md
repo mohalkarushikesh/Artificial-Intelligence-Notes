@@ -1,4 +1,4 @@
-# Unibo - Artificial Intelligence Notes
+# Artificial Intelligence Notes
 
 These are personal notes of the Artificial Intelligence master's degree courses at Unibo (Alma Mater Studiorum, University of Bologna). The repository contains a folder for every single course I have been able to take notes on. If some courses have not been listed, it is because I have not taken notes on those. In particular, the following table shows the current status of the notes related to the various courses:
 
